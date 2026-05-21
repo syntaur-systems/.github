@@ -5,6 +5,10 @@
 
   Smart home, finances, scheduling, voice, communications — most people stitch these together across a dozen apps and accounts. Syntaur consolidates them under one consistent interface, with a persistent memory layer so the AI actually remembers you.
 
+  ### [→ Download the latest stable release](https://github.com/syntaur-systems/syntaur/releases/latest)
+
+  One binary, signed with [Sigstore cosign](https://www.sigstore.dev/). Linux · macOS · Windows. Promoted from the active development branch on a weekly cadence.
+
   ---
 
   ### What we build
@@ -34,6 +38,16 @@
   **Open by design.**&nbsp;&nbsp;Standards (Matter, MQTT, IMAP) over proprietary lock-in.
 
   **One identity.**&nbsp;&nbsp;Sign in once, everywhere.
+
+  ---
+
+  ### Repositories
+
+  **[syntaur](https://github.com/syntaur-systems/syntaur)** · stable releases of the gateway binary
+
+  **[syntaur-landing](https://github.com/syntaur-systems/syntaur-landing)** · source of [syntaur.app](https://syntaur.app)
+
+  Active development happens at **[buddyholly007/syntaur](https://github.com/buddyholly007/syntaur)** — fast-moving alpha; releases here are promoted from there after a soak period.
 
   ---
 
