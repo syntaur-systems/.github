@@ -1,0 +1,26 @@
+# Syntaur Systems — funding configuration
+#
+# We don't currently solicit donations or sponsorships. Syntaur is in active
+# development and the payment backend isn't wired up yet — we want the product
+# to be refined enough to be worth paying for before we ask anyone to.
+#
+# When that's ready, uncomment the relevant platform line(s) below. Until
+# then, GitHub will not show a "Sponsor" button on org repos.
+#
+# The most valuable support right now is feedback and bug reports against
+# the active development repo: https://github.com/buddyholly007/syntaur
+
+# github: [syntaur-systems]
+# patreon: syntaur
+# open_collective: syntaur
+# ko_fi: syntaur
+# tidelift: syntaur
+# community_bridge: syntaur
+# liberapay: syntaur
+# issuehunt: syntaur
+# otechie: syntaur
+# lfx_crowdfunding: syntaur
+# polar: syntaur
+# buy_me_a_coffee: syntaur
+# thanks_dev: syntaur
+# custom: ['https://syntaur.app']
